@@ -1,0 +1,2 @@
+class JobLabel < ApplicationRecord
+end
